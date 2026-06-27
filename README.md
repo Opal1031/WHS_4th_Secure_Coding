@@ -1,3 +1,3 @@
 ## Hello, WHS!
 
-![WHS](WHS.png)
+![WHS](src/WHS.png)
